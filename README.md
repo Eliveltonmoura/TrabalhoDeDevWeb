@@ -17,7 +17,7 @@ Uma Site de encontrar emprego é cadastrar vagas de emprego.
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
 * Usuario
-* Vagas de empregos*
+* Vagas de empregos
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
