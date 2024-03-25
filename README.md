@@ -21,7 +21,7 @@ Uma Site de encontrar emprego é cadastrar vagas de emprego.
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
-* Os usuários não logados puderam ver as vagas de emprego  disponíveis.
+* Os usuários não logados poderam ver as vagas de emprego  disponíveis.
 
 * O usuário registrado poderá colocar interesse na vaga.
 
