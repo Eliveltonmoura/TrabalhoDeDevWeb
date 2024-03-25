@@ -1,6 +1,6 @@
 # :checkered_flag: Meu Emprego Ponto Com 
 
-Uma Site de encontrar emprego é cadastrar vagas de emprego. 
+Um Site de encontrar emprego é cadastrar vagas de emprego. 
 
 ## :technologist: Membros da equipe
 
