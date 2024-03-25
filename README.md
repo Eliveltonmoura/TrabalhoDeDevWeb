@@ -8,9 +8,9 @@ Uma Site de encontrar emprego é cadastrar vagas de emprego.
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-*Usuário não registrado
-*Usuário registrado
-*Administrador
+-Usuário não registrado
+-Usuário registrado
+-Administrador
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
