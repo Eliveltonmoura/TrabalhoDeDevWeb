@@ -8,11 +8,11 @@ Uma Site de encontrar emprego é cadastrar vagas de emprego.
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
--Usuário não registrado
+- Usuário não registrado
 
--Usuário registrado
+- Usuário registrado
 
--Administrador
+- Administrador
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
@@ -21,13 +21,13 @@ Uma Site de encontrar emprego é cadastrar vagas de emprego.
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
-*Os usuários não logados puderam ver as vagas de emprego  disponíveis.
+* Os usuários não logados puderam ver as vagas de emprego  disponíveis.
 
-*O usuário registrado poderá colocar interesse na vaga.
+* O usuário registrado poderá colocar interesse na vaga.
 
-*O usuário registrado como contratante poderá cadastrar novas vagas assim como receber Os currículos dos interessados pela vaga.
+* O usuário registrado como contratante poderá cadastrar novas vagas assim como receber Os currículos dos interessados pela vaga.
 
-*O administrador pode remover e banir contas suspeitas.
+* O administrador pode remover e banir contas suspeitas.
 
 
 
