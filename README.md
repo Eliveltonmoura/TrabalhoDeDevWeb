@@ -25,7 +25,7 @@ Uma Site de encontrar emprego é cadastrar vagas de emprego.
 
 * O usuário registrado poderá colocar interesse na vaga.
 
-* O usuário registrado como contratante poderá cadastrar novas vagas assim como receber Os currículos dos interessados pela vaga.
+* O usuário registrado como contratante poderá cadastrar novas vagas assim como receber os currículos dos interessados pela vaga.
 
 * O administrador pode remover e banir contas suspeitas.
 
