@@ -1,6 +1,6 @@
 # :checkered_flag: Meu Emprego Ponto Com 
 
-Breve descrição do que o seu projeto faz.
+Uma Site de encontrar emprego é cadastrar vagas de emprego. 
 
 ## :technologist: Membros da equipe
 
@@ -8,17 +8,21 @@ Breve descrição do que o seu projeto faz.
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Informe aqui os tipos de usuário que irão interagir com a aplicação. Ex: administrador, locador, locatario, usuário não logado.
-
-> Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
+Usuário não registrado
+Usuário registrado
+Administrador
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
-Liste as principais entidades do sistema.
+Usuario
+Vagas de empregos
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
-Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
+Os usuários não logados puderam ver as vagas de emprego  disponíveis.
+O usuário registrado poderá colocar interesse na vaga.
+O usuário registrado como contratante poderá cadastrar novas vagas assim como receber Os currículos dos interessados pela vaga. 
+O administrador pode remover e banir contas suspeitas.
 
 
 ----
