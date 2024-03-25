@@ -1,10 +1,10 @@
-# :checkered_flag: NOME DO PROJETO
+# :checkered_flag: Meu Emprego Ponto Com 
 
 Breve descrição do que o seu projeto faz.
 
 ## :technologist: Membros da equipe
 
-Matrícula, nome e curso dos participantes.
+428426, Elivelton Moura e Ciência da Computação.
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
