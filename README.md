@@ -25,11 +25,10 @@ Um Site de encontrar emprego é cadastrar vagas de emprego.
 
 * Os usuários não logados poderam ver as vagas de emprego  disponíveis.
 
-* O usuário registrado poderá colocar interesse na vaga.
-
-* O usuário registrado como contratante poderá cadastrar novas vagas assim como receber os currículos dos interessados pela vaga.
-
-* O administrador pode remover e banir contas suspeitas.
+* Os usuários registrados poderam colocar interesse na vaga.
+* O usuário registrado como contratante poderá cadastrar novas vagas assim como receber os currículos dos interessados pela vaga. (CPF)
+* Empresa registrada poderá cadastrar novas vagas assim como receber os currículos dos interessados pela vaga.(CMPJ)
+* O administrador pode remover e banir contas suspeitas. (root)
 
 
 
