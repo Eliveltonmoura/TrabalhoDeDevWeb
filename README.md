@@ -18,6 +18,7 @@ Um Site de encontrar emprego é cadastrar vagas de emprego.
 
 * Usuario
 * Vagas de empregos
+* Epressas
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
