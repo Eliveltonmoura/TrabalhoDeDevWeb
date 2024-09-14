@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import Herder from './components/Herder.vue';
+import Header from './components/Header.vue';
 import Footer from './components/Footer.vue';
 import Main from './components/Main.vue';
 
@@ -8,7 +8,7 @@ import Main from './components/Main.vue';
 
 <template>
   <div>
-    <Herder/>
+    <Header/>
     <Main/>
     <Footer/>
   </div>
