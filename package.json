@@ -1,0 +1,11 @@
+{
+  "name": "trabalhodedevweb",
+  "version": "1.0.0",
+  "description": "Um Site de encontrar emprego é cadastrar vagas de emprego.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elivelton Moura",
+  "license": "ISC"
+}
